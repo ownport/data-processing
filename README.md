@@ -4,7 +4,7 @@ Data processing environment
 
 ## Monitoring
 
-- [Monitoring tools](monitoring-tools.md)
+- [Monitoring tools](monitoring/monitoring-tools.md)
 
 ## Links
 

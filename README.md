@@ -17,6 +17,7 @@ to be described later
 ## Data formats
 
 - [JSON](data-formats/json.md)
+- [Cap'n Proto](data-formats/capnproto.md)
 
 ## Links
 
